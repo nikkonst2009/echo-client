@@ -13,7 +13,7 @@ BoxLayout:
     
     TextInput:
         id: ip_input
-        hint_text: 'IP ноутбука'
+        hint_text: 'IP сервера'
         font_size: '18sp'
     
     TextInput:
@@ -24,7 +24,7 @@ BoxLayout:
     
     TextInput:
         id: msg_input
-        hint_text: 'Сообщение для сервера'
+        hint_text: 'Сообщение для локальной сети'
         font_size: '18sp'
     
     Button:
