@@ -3,9 +3,9 @@
 Клиент для отправки сообщений в локальную сеть (можно посмотреть связь этого клиента и сервера с помощью [echo-server](https://github.com/nikkonst2009/echo-server))
 
 ## Запуск на телефоне
-#### 1. Соберите [echo-client](https://github.com/nikkonst/echo-client) с помощью buildozer:
+#### 1. Соберите [echo-client](https://github.com/nikkonst2009/echo-client) с помощью buildozer:
 ```buildozer android debug```
-#### 1.1. Или установите заготовленный [APK-файл](https://github.com/nikkonst/echo-client/releases)
+#### 1.1. Или установите заготовленный [APK-файл](https://github.com/nikkonst2009/echo-client/releases)
 
 ## Как работает
 #### 1. Приложение принимает IP-адрес сервера, порт сервера и сообщение
