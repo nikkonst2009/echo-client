@@ -1,6 +1,6 @@
 # echo-client 
 
-Клиент для отправки сообщений в локальную сеть (можно посмотреть связь этого клиента и сервера с помощью [echo-server](https://github.com/nikkonst2009/echo-server))
+Клиент для отправки сообщений в локальную сеть, написанный с помощью фреймворка kivy (можно посмотреть связь этого клиента и сервера с помощью [echo-server](https://github.com/nikkonst2009/echo-server))
 
 ## Запуск на телефоне
 #### 1. Соберите [echo-client](https://github.com/nikkonst2009/echo-client) с помощью buildozer:
