@@ -2,7 +2,7 @@
 
 title = My Application
 package.name = myapp
-package.domain = org.test
+package.domain = ru.echoclient
 android-ndk=23b
 android.sdk = 34
 android.minapi = 21
